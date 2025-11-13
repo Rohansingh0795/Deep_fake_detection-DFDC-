@@ -8,7 +8,7 @@ IEEE paper: https://ieeexplore.ieee.org/abstract/document/10931956
 
 ## Repository overview
 
-This repository collects code, notebooks, data-preprocessing scripts, and LaTeX sources related to Rohan Singh's published and in-progress research work, including but not limited to:
+This repository collects code, notebooks, data-preprocessing scripts related to Rohan Singh's published and in-progress research work, including but not limited to:
 
 - Deepfake detection experiments
 - Supporting datasets, evaluation scripts, and experiment logs
